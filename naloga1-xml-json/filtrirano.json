@@ -1,0 +1,58 @@
+[
+  {
+    "id": "B003",
+    "beseda": "avoid",
+    "jezik": "EN",
+    "prevod": "izbegavati",
+    "uspesnost": 0.0,
+    "steviloPoskusov": 1
+  },
+  {
+    "id": "B006",
+    "beseda": "environment",
+    "jezik": "EN",
+    "prevod": "životna sredina",
+    "uspesnost": 0.0,
+    "steviloPoskusov": 1
+  },
+  {
+    "id": "B009",
+    "beseda": "narrow",
+    "jezik": "EN",
+    "prevod": "uzak",
+    "uspesnost": 0.0,
+    "steviloPoskusov": 1
+  },
+  {
+    "id": "B011",
+    "beseda": "opportunity",
+    "jezik": "EN",
+    "prevod": "prilika",
+    "uspesnost": 0.0,
+    "steviloPoskusov": 1
+  },
+  {
+    "id": "B001",
+    "beseda": "reliable",
+    "jezik": "EN",
+    "prevod": "pouzdan",
+    "uspesnost": 50.0,
+    "steviloPoskusov": 2
+  },
+  {
+    "id": "B002",
+    "beseda": "achievement",
+    "jezik": "EN",
+    "prevod": "dostignuće",
+    "uspesnost": 50.0,
+    "steviloPoskusov": 2
+  },
+  {
+    "id": "B012",
+    "beseda": "recognize",
+    "jezik": "EN",
+    "prevod": "prepoznati",
+    "uspesnost": 50.0,
+    "steviloPoskusov": 2
+  }
+]

@@ -1,0 +1,17 @@
+<rezultatiKvizov>
+    <rezultat id="R001"><besedaId>B001</besedaId><tipVprasanja>PREVOD</tipVprasanja><pravilen>true</pravilen><casOdgovora>4.2</casOdgovora><datum>2026-10-18</datum></rezultat>
+    <rezultat id="R002"><besedaId>B001</besedaId><tipVprasanja>DOPOLNI_POVED</tipVprasanja><pravilen>false</pravilen><casOdgovora>6.8</casOdgovora><datum>2026-10-18</datum></rezultat>
+    <rezultat id="R003"><besedaId>B002</besedaId><tipVprasanja>PREVOD</tipVprasanja><pravilen>false</pravilen><casOdgovora>7.1</casOdgovora><datum>2026-10-18</datum></rezultat>
+    <rezultat id="R004"><besedaId>B002</besedaId><tipVprasanja>DEFINICIJA</tipVprasanja><pravilen>true</pravilen><casOdgovora>5.5</casOdgovora><datum>2026-10-18</datum></rezultat>
+    <rezultat id="R005"><besedaId>B003</besedaId><tipVprasanja>PREVOD</tipVprasanja><pravilen>false</pravilen><casOdgovora>5.9</casOdgovora><datum>2026-10-18</datum></rezultat>
+    <rezultat id="R006"><besedaId>B004</besedaId><tipVprasanja>PREVOD</tipVprasanja><pravilen>true</pravilen><casOdgovora>3.6</casOdgovora><datum>2026-10-18</datum></rezultat>
+    <rezultat id="R007"><besedaId>B005</besedaId><tipVprasanja>DEFINICIJA</tipVprasanja><pravilen>true</pravilen><casOdgovora>4.7</casOdgovora><datum>2026-10-18</datum></rezultat>
+    <rezultat id="R008"><besedaId>B006</besedaId><tipVprasanja>DOPOLNI_POVED</tipVprasanja><pravilen>false</pravilen><casOdgovora>8.4</casOdgovora><datum>2026-10-18</datum></rezultat>
+    <rezultat id="R009"><besedaId>B007</besedaId><tipVprasanja>PREVOD</tipVprasanja><pravilen>true</pravilen><casOdgovora>3.9</casOdgovora><datum>2026-10-19</datum></rezultat>
+    <rezultat id="R010"><besedaId>B008</besedaId><tipVprasanja>DEFINICIJA</tipVprasanja><pravilen>true</pravilen><casOdgovora>4.1</casOdgovora><datum>2026-10-19</datum></rezultat>
+    <rezultat id="R011"><besedaId>B009</besedaId><tipVprasanja>PREVOD</tipVprasanja><pravilen>false</pravilen><casOdgovora>6.3</casOdgovora><datum>2026-10-19</datum></rezultat>
+    <rezultat id="R012"><besedaId>B010</besedaId><tipVprasanja>PREVOD</tipVprasanja><pravilen>true</pravilen><casOdgovora>4.8</casOdgovora><datum>2026-10-19</datum></rezultat>
+    <rezultat id="R013"><besedaId>B011</besedaId><tipVprasanja>DOPOLNI_POVED</tipVprasanja><pravilen>false</pravilen><casOdgovora>7.7</casOdgovora><datum>2026-10-19</datum></rezultat>
+    <rezultat id="R014"><besedaId>B012</besedaId><tipVprasanja>DEFINICIJA</tipVprasanja><pravilen>true</pravilen><casOdgovora>5.2</casOdgovora><datum>2026-10-19</datum></rezultat>
+    <rezultat id="R015"><besedaId>B012</besedaId><tipVprasanja>PREVOD</tipVprasanja><pravilen>false</pravilen><casOdgovora>6.0</casOdgovora><datum>2026-10-19</datum></rezultat>
+</rezultatiKvizov>
