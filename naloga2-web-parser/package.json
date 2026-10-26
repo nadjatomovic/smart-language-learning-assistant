@@ -1,0 +1,12 @@
+{
+  "name": "naloga2-web-parser",
+  "version": "1.0.0",
+  "description": "Parser spletne strani za projekt Smart Language Learning Assistant",
+  "main": "parser.js",
+  "scripts": {
+    "start": "node parser.js"
+  },
+  "dependencies": {
+    "puppeteer": "18.1.0"
+  }
+}

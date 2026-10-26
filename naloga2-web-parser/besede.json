@@ -1,0 +1,3402 @@
+[
+  {
+    "beseda": "come",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "get",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "give",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "go",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "keep",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "let",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "make",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "put",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "seem",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "take",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "be",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "do",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "have",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "say",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "see",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "send",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "may",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "will",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "about",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "across",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "after",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "against",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "among",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "at",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "before",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "between",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "by",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "down",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "from",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "in",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "off",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "on",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "over",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "through",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "to",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "under",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "up",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "with",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "as",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "for",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "of",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "till",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "than",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "a",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "the",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "all",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "any",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "every",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "no",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "other",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "some",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "such",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "that",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "this",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "I",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "he",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "you",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "who",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "and",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "because",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "but",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "or",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "if",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "though",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "while",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "how",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "when",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "where",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "why",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "again",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "ever",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "far",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "forward",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "here",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "near",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "now",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "out",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "still",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "then",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "there",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "together",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "well",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "almost",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "enough",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "even",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "little",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "much",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "not",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "only",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "quite",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "so",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "very",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "tomorrow",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "yesterday",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "north",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "south",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "east",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "west",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "please",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "yes",
+    "kategorija": "Operations - 100 words"
+  },
+  {
+    "beseda": "account",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "act",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "addition",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "adjustment",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "advertisement",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "agreement",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "air",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "amount",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "amusement",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "animal",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "answer",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "apparatus",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "approval",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "argument",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "art",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "attack",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "attempt",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "attention",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "attraction",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "authority",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "back",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "balance",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "base",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "behaviour",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "belief",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "birth",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "bit",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "bite",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "blood",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "blow",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "body",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "brass",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "bread",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "breath",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "brother",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "building",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "burn",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "burst",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "business",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "butter",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "canvas",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "care",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "cause",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "chalk",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "chance",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "change",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "cloth",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "coal",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "colour",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "comfort",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "committee",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "company",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "comparison",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "competition",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "condition",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "connection",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "control",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "cook",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "copper",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "copy",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "cork",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "cotton",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "cough",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "country",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "cover",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "crack",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "credit",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "crime",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "crush",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "cry",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "current",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "curve",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "damage",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "danger",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "daughter",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "day",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "death",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "debt",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "decision",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "degree",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "design",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "desire",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "destruction",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "detail",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "development",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "digestion",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "direction",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "discovery",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "discussion",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "disease",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "disgust",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "distance",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "distribution",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "division",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "doubt",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "drink",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "driving",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "dust",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "earth",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "edge",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "education",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "effect",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "end",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "error",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "event",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "example",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "exchange",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "existence",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "expansion",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "experience",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "expert",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "fact",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "fall",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "family",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "father",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "fear",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "feeling",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "fiction",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "field",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "fight",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "fire",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "flame",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "flight",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "flower",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "fold",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "food",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "force",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "form",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "friend",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "front",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "fruit",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "glass",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "gold",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "government",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "grain",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "grass",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "grip",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "group",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "growth",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "guide",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "harbour",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "harmony",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "hate",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "hearing",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "heat",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "help",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "history",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "hole",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "hope",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "hour",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "humour",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "ice",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "idea",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "impulse",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "increase",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "industry",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "ink",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "insect",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "instrument",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "insurance",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "interest",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "invention",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "iron",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "jelly",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "join",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "journey",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "judge",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "jump",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "kick",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "kiss",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "knowledge",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "land",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "language",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "laugh",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "law",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "lead",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "learning",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "leather",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "letter",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "level",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "lift",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "light",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "limit",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "linen",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "liquid",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "list",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "look",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "loss",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "love",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "machine",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "man",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "manager",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "mark",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "market",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "mass",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "meal",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "measure",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "meat",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "meeting",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "memory",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "metal",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "middle",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "milk",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "mind",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "mine",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "minute",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "mist",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "money",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "month",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "morning",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "mother",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "motion",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "mountain",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "move",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "music",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "name",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "nation",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "need",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "news",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "night",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "noise",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "note",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "number",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "observation",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "offer",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "oil",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "operation",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "opinion",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "order",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "organization",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "ornament",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "owner",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "page",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "pain",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "paint",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "paper",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "part",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "paste",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "payment",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "peace",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "person",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "place",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "plant",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "play",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "pleasure",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "point",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "poison",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "polish",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "porter",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "position",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "powder",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "power",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "price",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "print",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "process",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "produce",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "profit",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "property",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "prose",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "protest",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "pull",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "punishment",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "purpose",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "push",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "quality",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "question",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "rain",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "range",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "rate",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "ray",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "reaction",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "reading",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "reason",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "record",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "regret",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "relation",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "religion",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "representative",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "request",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "respect",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "rest",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "reward",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "rhythm",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "rice",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "river",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "road",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "roll",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "room",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "rub",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "rule",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "run",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "salt",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "sand",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "scale",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "science",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "sea",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "seat",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "secretary",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "selection",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "self",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "sense",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "servant",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "sex",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "shade",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "shake",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "shame",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "shock",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "side",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "sign",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "silk",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "silver",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "sister",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "size",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "sky",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "sleep",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "slip",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "slope",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "smash",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "smell",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "smile",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "smoke",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "sneeze",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "snow",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "soap",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "society",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "son",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "song",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "sort",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "sound",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "soup",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "space",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "stage",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "start",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "statement",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "steam",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "steel",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "step",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "stitch",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "stone",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "stop",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "story",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "stretch",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "structure",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "substance",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "sugar",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "suggestion",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "summer",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "support",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "surprise",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "swim",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "system",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "talk",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "taste",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "tax",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "teaching",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "tendency",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "test",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "theory",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "thing",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "thought",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "thunder",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "time",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "tin",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "top",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "touch",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "trade",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "transport",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "trick",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "trouble",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "turn",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "twist",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "unit",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "use",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "value",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "verse",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "vessel",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "view",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "voice",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "walk",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "war",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "wash",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "waste",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "water",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "wave",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "wax",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "way",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "weather",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "week",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "weight",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "wind",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "wine",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "winter",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "woman",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "wood",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "wool",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "word",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "work",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "wound",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "writing",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "year",
+    "kategorija": "400 general words"
+  },
+  {
+    "beseda": "angle",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "ant",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "apple",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "arch",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "arm",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "army",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "baby",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "bag",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "ball",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "band",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "basin",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "basket",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "bath",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "bed",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "bee",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "bell",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "berry",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "bird",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "blade",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "board",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "boat",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "bone",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "book",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "boot",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "bottle",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "box",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "boy",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "brain",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "brake",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "branch",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "brick",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "bridge",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "brush",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "bucket",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "bulb",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "button",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "cake",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "camera",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "card",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "cart",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "carriage",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "cat",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "chain",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "cheese",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "chest",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "chin",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "church",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "circle",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "clock",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "cloud",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "coat",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "collar",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "comb",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "cord",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "cow",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "cup",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "curtain",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "cushion",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "dog",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "door",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "drain",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "drawer",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "dress",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "drop",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "ear",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "egg",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "engine",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "eye",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "face",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "farm",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "feather",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "finger",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "fish",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "flag",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "floor",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "fly",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "foot",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "fork",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "fowl",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "frame",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "garden",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "girl",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "glove",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "goat",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "gun",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "hair",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "hammer",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "hand",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "hat",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "head",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "heart",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "hook",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "horn",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "horse",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "hospital",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "house",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "island",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "jewel",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "kettle",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "key",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "knee",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "knife",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "knot",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "leaf",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "leg",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "library",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "line",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "lip",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "lock",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "map",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "match",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "monkey",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "moon",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "mouth",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "muscle",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "nail",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "neck",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "needle",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "nerve",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "net",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "nose",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "nut",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "office",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "orange",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "oven",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "parcel",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "pen",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "pencil",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "picture",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "pig",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "pin",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "pipe",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "plane",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "plate",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "plough",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "pocket",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "pot",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "potato",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "prison",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "pump",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "rail",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "rat",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "receipt",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "ring",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "rod",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "roof",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "root",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "sail",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "school",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "scissors",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "screw",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "seed",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "sheep",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "shelf",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "ship",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "shirt",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "shoe",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "skin",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "skirt",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "snake",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "sock",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "spade",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "sponge",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "spoon",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "spring",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "square",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "stamp",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "star",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "station",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "stem",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "stick",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "stocking",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "stomach",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "store",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "street",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "sun",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "table",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "tail",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "thread",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "throat",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "thumb",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "ticket",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "toe",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "tongue",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "tooth",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "town",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "train",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "tray",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "tree",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "trousers",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "umbrella",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "wall",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "watch",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "wheel",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "whip",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "whistle",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "window",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "wing",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "wire",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "worm",
+    "kategorija": "Things - 200 picturable words"
+  },
+  {
+    "beseda": "able",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "acid",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "angry",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "automatic",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "beautiful",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "black",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "boiling",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "bright",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "broken",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "brown",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "cheap",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "chemical",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "chief",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "clean",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "clear",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "common",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "complex",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "conscious",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "cut",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "deep",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "dependent",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "early",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "elastic",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "electric",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "equal",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "fat",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "fertile",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "first",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "fixed",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "flat",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "free",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "frequent",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "full",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "general",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "good",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "great",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "grey",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "hanging",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "happy",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "hard",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "healthy",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "high",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "hollow",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "important",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "kind",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "like",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "living",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "long",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "male",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "married",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "material",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "medical",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "military",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "natural",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "necessary",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "new",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "normal",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "open",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "parallel",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "past",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "physical",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "political",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "poor",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "possible",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "present",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "private",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "probable",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "quick",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "quiet",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "ready",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "red",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "regular",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "responsible",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "right",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "round",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "same",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "second",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "separate",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "serious",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "sharp",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "smooth",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "sticky",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "stiff",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "straight",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "strong",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "sudden",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "sweet",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "tall",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "thick",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "tight",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "tired",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "true",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "violent",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "waiting",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "warm",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "wet",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "wide",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "wise",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "yellow",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "young",
+    "kategorija": "Qualities - 100 descriptive words"
+  },
+  {
+    "beseda": "awake",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "bad",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "bent",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "bitter",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "blue",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "certain",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "cold",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "complete",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "cruel",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "dark",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "dead",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "dear",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "delicate",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "different",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "dirty",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "dry",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "false",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "feeble",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "female",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "foolish",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "future",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "green",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "ill",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "last",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "late",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "left",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "loose",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "loud",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "low",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "mixed",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "narrow",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "old",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "opposite",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "public",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "rough",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "sad",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "safe",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "secret",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "short",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "shut",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "simple",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "slow",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "small",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "soft",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "solid",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "special",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "strange",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "thin",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "white",
+    "kategorija": "Qualities - 50 opposites"
+  },
+  {
+    "beseda": "wrong",
+    "kategorija": "Qualities - 50 opposites"
+  }
+]
